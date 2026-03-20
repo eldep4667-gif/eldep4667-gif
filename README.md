@@ -1,48 +1,45 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Mohammed. I'm a Data Analyst, transforming raw data into actionable business insights.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+[![Twitter Followers](https://img.shields.io/twitter/follow/your_username?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/your_username) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/eldep4667-gif?logo=GitHub&style=for-the-badge)](https://github.com/eldep4667-gif) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/eldep4667-gif?logo=github&style=for-the-badge)](https://github.com/eldep4667-gif)
 
-# 👋 &nbsp;Hi there
+# 👋 &nbsp;Hi there, I'm Mohammed Desouk
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+I'm a **Data Analyst** passionate about storytelling through data. I specialize in handling millions of records and transforming them into precise insights that drive business decisions. I bridge the gap between complex data and clear, visual communication.
 
-&nbsp;
-
-## 👇 &nbsp;Current project
-
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-![Tweetormator](/assets/tweetormator.jpg)
+* 🔭 **Focus:** Big Data Management & Predictive Analytics.
+* 📊 **Goal:** Helping businesses grow by identifying trends and optimizing performance.
+* 💬 **Ask me about:** SQL queries, DAX measures, or how to build a killer dashboard.
+* 📫 **Contact:** Feel free to reach out for collaborations or data talk!
 
 &nbsp;
 
-## ✏️ &nbsp;Blog posts
+## 📊 &nbsp;Featured Dashboard
 
-<!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
+### [Sales Performance & Regional Analysis](https://github.com/eldep4667-gif/your-repo-name)
+A comprehensive interactive dashboard built to track KPIs, revenue growth, and customer behavior.
+* **Key Insight:** Identified a 15% drop in churn rate by optimizing regional targeting.
+* **Tools:** Power BI, SQL, Power Query.
 
-&nbsp;
-
-## 🧰 &nbsp;My toolbox
-
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+![Dashboard Preview](https://github.com/eldep4667-gif/eldep4667-gif/raw/main/1770484676634.jpg)
 
 &nbsp;
 
-## 🖥 &nbsp;Past work
+## 🧰 &nbsp;My Data Toolbox
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-plain.svg" alt="Tableau" width="50" height="50"/>
 
 &nbsp;
 
-## 📊 &nbsp;Stats
+## 🔍 &nbsp;Latest Insights & Projects
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+- **[E-commerce Customer Segmentation]**: Using Python (Scikit-learn) to group customers by purchasing behavior.
+- **[Supply Chain Optimization]**: A SQL-based project to reduce inventory lag by 20%.
+- **[Financial Reporting Automation]**: Streamlining monthly reports using Advanced Excel and VBA.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+&nbsp;
 
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
+## 📈 &nbsp;GitHub Stats
+
+![Mohammed's Github Stats](https://github-readme-stats.vercel.app/api?username=eldep4667-gif&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eldep4667-gif&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
