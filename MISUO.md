@@ -1,4 +1,6 @@
 # 📊 Advanced Data Analysis Dashboard
+[MISUO - Desouky(1) (Recovered).xlsx](https://github.com/user-attachments/files/26151658/MISUO.-.Desouky.1.Recovered.xlsx)
+
 
 ## 📌 Project Overview
 This project focuses on transforming raw data into meaningful insights through advanced data analysis techniques and interactive dashboards. The goal is to support data-driven decision-making by identifying trends, patterns, and key business metrics.
@@ -55,6 +57,7 @@ This dashboard provides a comprehensive view of performance, enabling stakeholde
 
 ![1770484681061](https://github.com/user-attachments/assets/b36760da-3cb6-4ee6-ad82-96cb493e553f)
 ![1770484681240](https://github.com/user-attachments/assets/29ecea73-1b60-48e8-a825-5b2a1cacd1c0)
+![1770484676634](https://github.com/user-attachments/assets/e1dd6905-1627-4c92-8bac-43891506070c)
 
 
 
