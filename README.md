@@ -1,34 +1,71 @@
 <!-- ============================================================ -->
-<!--           MOHAMMED DESOUKY — DASHBOARD PROFILE README        -->
+<!--        MOHAMMED DESOUKY — DASHBOARD PROFILE README           -->
 <!-- ============================================================ -->
 
 <!-- ───────────────────── HERO HEADER ───────────────────────── -->
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/16861254/file/original-184e65d85833c385d6b143ea6d99255f.mp4" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohammed%20Desouky&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descSize=17&descColor=e8f4fd&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
-<!-- ─────────────────── LIVE TYPING SUBTITLE ─────────────────── -->
+<!-- ─────────────────── ANIMATED GIF HERO ────────────────────── -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80px"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80px"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80px"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80px"/>
+
+</div>
+
+<br/>
+
+<!-- ─────────────────── LIVE TYPING ──────────────────────────── -->
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=700&lines=Senior+Data+Analyst+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+%7C+Tableau;Transforming+Raw+Data+into+Strategic+Decisions;+Building+Dashboards+that+Drive+Business+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2E86AB&center=true&vCenter=true&width=750&lines=📊+Senior+Data+Analyst+%7C+Business+Intelligence;💡+Power+BI+%7C+SQL+%7C+Python+%7C+Excel+%7C+Tableau;🎯+Transforming+Raw+Data+into+Strategic+Decisions;📈+Building+Dashboards+that+Drive+Business+Growth" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<!-- ─────────────────── SOCIAL BADGES ────────────────────────── -->
+<!-- ─────────────────── SOCIAL CARDS ─────────────────────────── -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Desouky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-desouky-a73289282/)
-[![Gmail](https://img.shields.io/badge/Gmail-eldep4667@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldep4667@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@aldepds-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aldepds)
-[![Twitter](https://img.shields.io/badge/Twitter-@mohmad__Eldep-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohmad_Eldep)
+<a href="https://www.linkedin.com/in/mohammed-desouky-a73289282/">
+  <img src="https://img.shields.io/badge/🔗%20LinkedIn-%40Mohammed%20Desouky-0A66C2?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:eldep4667@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-eldep4667%40gmail.com-EA4335?style=for-the-badge&logoColor=white" />
+</a>
 
-📍 **New Cairo, Egypt**
+<br/><br/>
+
+<a href="https://youtube.com/@aldepds">
+  <img src="https://img.shields.io/badge/▶%20YouTube-%40aldepds-FF0000?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/mohmad_Eldep">
+  <img src="https://img.shields.io/badge/𝕏%20Twitter-%40mohmad__Eldep-000000?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/eldep4667-gif">
+  <img src="https://img.shields.io/badge/🐙%20GitHub-%40eldep4667--gif-181717?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+📍 <strong>New Cairo, Egypt</strong>
+&nbsp;|&nbsp;
+📞 <strong>01229262463</strong>
 
 </div>
 
@@ -40,39 +77,43 @@
 
 <div align="center">
 
-### 📊 Analytics Dashboard — At a Glance
+### 📊 Analytics Overview — At a Glance
 
 </div>
 
-<table align="center" width="96%" cellspacing="0" cellpadding="0">
+<table align="center" width="94%">
   <tr>
-    <td align="center" width="25%" style="padding:14px;">
-      <a href="#projects">
-        <img src="https://img.shields.io/badge/-%F0%9F%93%81%20Featured%20Projects-2E86AB?style=for-the-badge&labelColor=EBF5FB" width="100%"/>
-        <br/><strong>4 +</strong>
-        <br/><sub>Data Projects</sub>
-      </a>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://img.shields.io/badge/📁-PROJECTS-2E86AB?style=for-the-badge" /><br/><br/>
+      <b><font size="5">4 +</font></b><br/>
+      <sub>Featured Projects</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Active-27AE60?style=flat-square"/>
+      <br/>
     </td>
-    <td align="center" width="25%" style="padding:14px;">
-      <a href="#skills">
-        <img src="https://img.shields.io/badge/-%F0%9F%93%88%20Dashboards%20Built-27AE60?style=for-the-badge&labelColor=EAFAF1" width="100%"/>
-        <br/><strong>50 +</strong>
-        <br/><sub>BI Dashboards</sub>
-      </a>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://img.shields.io/badge/📊-DASHBOARDS-27AE60?style=for-the-badge" /><br/><br/>
+      <b><font size="5">50 +</font></b><br/>
+      <sub>BI Dashboards Built</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square"/>
+      <br/>
     </td>
-    <td align="center" width="25%" style="padding:14px;">
-      <a href="#experience">
-        <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Rows%20Analyzed-E67E22?style=for-the-badge&labelColor=FEF9E7" width="100%"/>
-        <br/><strong>1M +</strong>
-        <br/><sub>Rows Processed</sub>
-      </a>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://img.shields.io/badge/🗄️-ROWS%20ANALYZED-E67E22?style=for-the-badge" /><br/><br/>
+      <b><font size="5">1M +</font></b><br/>
+      <sub>Data Rows Processed</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Accuracy-95%25-E67E22?style=flat-square"/>
+      <br/>
     </td>
-    <td align="center" width="25%" style="padding:14px;">
-      <a href="#skills">
-        <img src="https://img.shields.io/badge/-%F0%9F%A7%B0%20Tools%20Mastered-8E44AD?style=for-the-badge&labelColor=F5EEF8" width="100%"/>
-        <br/><strong>8 +</strong>
-        <br/><sub>Core Tools</sub>
-      </a>
+    <td align="center" width="25%">
+      <br/>
+      <img src="https://img.shields.io/badge/🧰-TOOLS-8E44AD?style=for-the-badge" /><br/><br/>
+      <b><font size="5">8 +</font></b><br/>
+      <sub>Tools Mastered</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Stack-Full%20Analytics-8E44AD?style=flat-square"/>
+      <br/>
     </td>
   </tr>
 </table>
@@ -85,17 +126,17 @@
 
 ## 🧑‍💼 About Me
 
-> *I don't just work with data — I build systems that make data speak the language of business.*
+> *"I don't just work with data — I build systems that make data speak the language of business."*
 
-I am a **Senior Data Analyst** based in New Cairo, Egypt, with deep expertise across the **full analytics lifecycle** — from raw data extraction and cleaning to executive-ready dashboards and strategic recommendations.
+I am a **Senior Data Analyst** based in New Cairo, Egypt, with deep expertise across the **full analytics lifecycle** — from raw data extraction and cleaning through to executive-ready dashboards and strategic recommendations.
 
 I specialize in translating ambiguous business questions into **precise, evidence-backed decisions** using Power BI, SQL, Python, Excel, and R. My work has spanned global firms including **KPMG**, **Tata Group**, and **Accenture**.
 
-What sets me apart:
-- 🎯 I build dashboards that **non-technical executives** actually use and trust
-- 🔍 I ask the *right* questions before writing a single query
-- 📖 I turn reports into **stories** — not just tables of numbers
-- 🤖 I integrate **AI tools** to accelerate data cleaning, SQL generation & insight discovery
+| 🎯 | I build dashboards that **non-technical executives** actually use and trust |
+|:--|:--|
+| 🔍 | I ask the *right* questions **before** writing a single query |
+| 📖 | I turn reports into **stories** — not just tables of numbers |
+| 🤖 | I integrate **AI tools** to accelerate cleaning, SQL generation & insights |
 
 ---
 
@@ -103,86 +144,69 @@ What sets me apart:
 <!--                   SKILL CARDS SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a name="skills"></a>
 ## 🧰 Skills Dashboard
 
-<table width="100%" cellspacing="10">
+<table width="100%">
   <tr>
-    <!-- EXCEL CARD -->
     <td width="25%" align="center" valign="top">
+      <br/>
       <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Advanced%20Formulas-✓-217346?style=flat-square"/>
+      <img src="https://img.shields.io/badge/✔-Advanced%20Formulas-217346?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Power%20Query-217346?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Pivot%20Tables-217346?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Power%20Pivot-217346?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-VBA%20Automation-217346?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Level-Expert-217346?style=flat-square"/>
       <br/>
-      <img src="https://img.shields.io/badge/Power%20Query-✓-217346?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Pivot%20Tables-✓-217346?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Power%20Pivot-✓-217346?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/VBA%20Automation-✓-217346?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Proficiency-Expert-217346?style=flat-square&logo=microsoftexcel"/>
     </td>
-    <!-- SQL CARD -->
     <td width="25%" align="center" valign="top">
+      <br/>
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Joins%20%26%20Subqueries-✓-336791?style=flat-square"/>
+      <img src="https://img.shields.io/badge/✔-Joins%20%26%20Subqueries-336791?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Window%20Functions-336791?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-CTEs-336791?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Query%20Optimisation-336791?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Data%20Extraction-336791?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Level-Advanced-336791?style=flat-square"/>
       <br/>
-      <img src="https://img.shields.io/badge/Window%20Functions-✓-336791?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/CTEs-✓-336791?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Query%20Optimisation-✓-336791?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Data%20Extraction-✓-336791?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Proficiency-Advanced-336791?style=flat-square&logo=postgresql"/>
     </td>
-    <!-- POWER BI CARD -->
     <td width="25%" align="center" valign="top">
+      <br/>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/DAX%20Formulas-✓-E6B800?style=flat-square"/>
+      <img src="https://img.shields.io/badge/✔-DAX%20Formulas-E6B800?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Data%20Modeling-E6B800?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-KPI%20Dashboards-E6B800?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Custom%20Visuals-E6B800?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Report%20Publishing-E6B800?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Level-Expert-E6B800?style=flat-square"/>
       <br/>
-      <img src="https://img.shields.io/badge/Data%20Modeling-✓-E6B800?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/KPI%20Dashboards-✓-E6B800?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Custom%20Visuals-✓-E6B800?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Report%20Publishing-✓-E6B800?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Proficiency-Expert-E6B800?style=flat-square&logo=powerbi&logoColor=black"/>
     </td>
-    <!-- PYTHON CARD -->
     <td width="25%" align="center" valign="top">
+      <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-✓-3776AB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/✔-Pandas%20%26%20NumPy-3776AB?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Matplotlib%20%2F%20Seaborn-3776AB?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Data%20Cleaning-3776AB?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-EDA%20Analysis-3776AB?style=flat-square"/><br/>
+      <img src="https://img.shields.io/badge/✔-Automation-3776AB?style=flat-square"/><br/><br/>
+      <img src="https://img.shields.io/badge/Level-Proficient-3776AB?style=flat-square"/>
       <br/>
-      <img src="https://img.shields.io/badge/Matplotlib%20%2F%20Seaborn-✓-3776AB?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Data%20Cleaning-✓-3776AB?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/EDA%20Analysis-✓-3776AB?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Automation-✓-3776AB?style=flat-square"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Proficiency-Proficient-3776AB?style=flat-square&logo=python"/>
     </td>
   </tr>
 </table>
 
-### Additional Tools
-
 <div align="center">
 
+**More Tools:**
+&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R%20Language-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics%20%26%20Probability-6C3483?style=flat-square)
 ![AI Analytics](https://img.shields.io/badge/AI%20in%20Analytics-00B4D8?style=flat-square)
 
@@ -199,54 +223,54 @@ What sets me apart:
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h2>📊</h2>
-      <h3>50+</h3>
-      <strong>Dashboards Built</strong>
-      <br/><sub>Power BI · Tableau · Excel</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Active-27AE60?style=flat-square"/>
+      <br/>
+      <b>📊 50+</b><br/>
+      <strong>Dashboards Built</strong><br/>
+      <sub>Power BI · Tableau · Excel</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Trend-↑%20Growing-27AE60?style=flat-square"/>
+      <br/>
     </td>
     <td align="center" width="33%">
-      <h2>🗄️</h2>
-      <h3>1M+</h3>
-      <strong>Rows Analyzed</strong>
-      <br/><sub>SQL · Python · Excel</sub>
-      <br/><br/>
+      <br/>
+      <b>🗄️ 1M+</b><br/>
+      <strong>Rows Analyzed</strong><br/>
+      <sub>SQL · Python · Excel</sub><br/><br/>
       <img src="https://img.shields.io/badge/Accuracy-95%25-2E86AB?style=flat-square"/>
+      <br/>
     </td>
     <td align="center" width="33%">
-      <h2>🎯</h2>
-      <h3>3</h3>
-      <strong>Global Firms</strong>
-      <br/><sub>KPMG · Tata · Accenture</sub>
-      <br/><br/>
+      <br/>
+      <b>🏢 3</b><br/>
+      <strong>Global Firms</strong><br/>
+      <sub>KPMG · Tata · Accenture</sub><br/><br/>
       <img src="https://img.shields.io/badge/Impact-High-E67E22?style=flat-square"/>
+      <br/>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h2>🧹</h2>
-      <h3>95%</h3>
-      <strong>Report Accuracy</strong>
-      <br/><sub>Validated & QA-tested</sub>
-      <br/><br/>
+      <br/>
+      <b>🎯 95%</b><br/>
+      <strong>Report Accuracy</strong><br/>
+      <sub>Validated & QA-tested</sub><br/><br/>
       <img src="https://img.shields.io/badge/Quality-Verified-8E44AD?style=flat-square"/>
+      <br/>
     </td>
     <td align="center" width="33%">
-      <h2>⚡</h2>
-      <h3>70%</h3>
-      <strong>Reporting Time Saved</strong>
-      <br/><sub>via Automation & BI</sub>
-      <br/><br/>
+      <br/>
+      <b>⚡ 70%</b><br/>
+      <strong>Reporting Time Saved</strong><br/>
+      <sub>via Automation & BI</sub><br/><br/>
       <img src="https://img.shields.io/badge/Efficiency-Optimized-27AE60?style=flat-square"/>
+      <br/>
     </td>
     <td align="center" width="33%">
-      <h2>📚</h2>
-      <h3>8+</h3>
-      <strong>Tools Mastered</strong>
-      <br/><sub>End-to-end analytics stack</sub>
-      <br/><br/>
+      <br/>
+      <b>🧰 8+</b><br/>
+      <strong>Tools Mastered</strong><br/>
+      <sub>End-to-end analytics stack</sub><br/><br/>
       <img src="https://img.shields.io/badge/Growth-Continuous-2E86AB?style=flat-square"/>
+      <br/>
     </td>
   </tr>
 </table>
@@ -257,13 +281,11 @@ What sets me apart:
 <!--                  FEATURED PROJECTS                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a name="projects"></a>
 ## 📂 Featured Projects
 
 <table width="100%">
-  <!-- ROW 1 -->
   <tr>
-    <td width="50%" valign="top" style="padding:8px;">
+    <td width="50%" valign="top">
 
 ### 🔹 Customer Segmentation Dashboard
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -272,29 +294,28 @@ What sets me apart:
 
 **Context:** KPMG Virtual Analytics Experience
 
-Applied **RFM analysis** (Recency · Frequency · Monetary) across large customer datasets. Built an executive Power BI dashboard to visualise high-value segments, enabling targeted marketing strategies.
+Applied **RFM analysis** (Recency · Frequency · Monetary) across large customer datasets. Built an executive Power BI dashboard to visualise high-value segments.
 
-> 📌 **Impact:** Identified top 20% customers driving 80% of revenue. Informed retention strategy for high-churn-risk segment.
+> 📌 **Impact:** Identified top 20% customers driving 80% of revenue. Informed retention strategy for high-churn-risk cohort.
 
     </td>
-    <td width="50%" valign="top" style="padding:8px;">
+    <td width="50%" valign="top">
 
 ### 🔹 Revenue & Geographic Analysis
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-E6B800?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Context:** Tata Group — Empowering Business with Effective Insights
+**Context:** Tata Group — Effective Business Insights
 
-Built a multi-region dashboard revealing revenue distribution using **heatmaps**. Introduced what-if scenario planning, enabling finance teams to model future outcomes confidently.
+Built a multi-region dashboard with revenue **heatmaps**. Introduced what-if scenario planning for finance teams to model outcomes confidently.
 
-> 📌 **Impact:** Reduced executive reporting prep time by 70%. Enabled real-time financial scenario modeling.
+> 📌 **Impact:** Reduced executive reporting prep time by **70%**. Enabled real-time financial scenario modeling.
 
     </td>
   </tr>
-  <!-- ROW 2 -->
   <tr>
-    <td width="50%" valign="top" style="padding:8px;">
+    <td width="50%" valign="top">
 
 ### 🔹 Content Performance Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -303,23 +324,23 @@ Built a multi-region dashboard revealing revenue distribution using **heatmaps**
 
 **Context:** Accenture — Content Strategy Simulation
 
-Analyzed **1M+ content category records** to surface the top 5 performing content types. Delivered a storytelling presentation that directly informed editorial strategy based on pattern analysis.
+Analyzed **1M+ content category records** to surface the top 5 performing content types. Delivered a data storytelling presentation adopted by leadership.
 
-> 📌 **Impact:** Identified factors driving +40% user engagement. Strategic presentation adopted by leadership team.
+> 📌 **Impact:** Identified factors driving +40% user engagement. Strategy shift directly informed by analysis.
 
     </td>
-    <td width="50%" valign="top" style="padding:8px;">
+    <td width="50%" valign="top">
 
 ### 🔹 KPI Tracking & Financial Dashboard
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-E6B800?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Context:** Operational Analytics & BI Reporting
 
-Designed a company-wide KPI framework with 30+ business metrics. Replaced fragmented spreadsheet reporting with a single **live Power BI source of truth** consumed by multiple departments.
+Designed a company-wide KPI framework with **30+ business metrics**. Replaced fragmented spreadsheet reporting with a single live Power BI source of truth.
 
-> 📌 **Impact:** Eliminated 12+ manual reports. Saved 15+ hours/week in cross-departmental reporting effort.
+> 📌 **Impact:** Eliminated 12+ manual reports. Saved **15+ hours/week** across departments.
 
     </td>
   </tr>
@@ -331,7 +352,6 @@ Designed a company-wide KPI framework with 30+ business metrics. Replaced fragme
 <!--                    WORK EXPERIENCE                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a name="experience"></a>
 ## 💼 Experience Highlights
 
 | 🏢 Organisation | 🎯 Role | 🔑 Key Contribution |
@@ -377,7 +397,7 @@ Designed a company-wide KPI framework with 30+ business metrics. Replaced fragme
     <td width="50%">
 
 **📜 Data Analysis Diploma** — Cairo
-- Full data lifecycle: Extract → Clean → Model → Visualise → Communicate
+- Full lifecycle: Extract → Clean → Model → Visualise → Communicate
 - Tools: Excel · SQL · Power BI · Python · R · Applied Statistics
 - Built real-world projects with actionable business insights
 
@@ -393,7 +413,7 @@ Designed a company-wide KPI framework with 30+ business metrics. Replaced fragme
   </tr>
 </table>
 
-**Languages:** 🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇬🇧 English (Fluent)
+**Languages:** 🇸🇦 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent
 
 ---
 
@@ -429,14 +449,21 @@ Designed a company-wide KPI framework with 30+ business metrics. Replaced fragme
 
 *Open to Data Analyst roles · BI consulting · Freelance analytics projects*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-desouky-a73289282/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldep4667@gmail.com)
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aldepds)
-[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohmad_Eldep)
-
 <br/>
 
+<a href="https://www.linkedin.com/in/mohammed-desouky-a73289282/">
+  <img src="https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-Mohammed%20Desouky-0A66C2?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:eldep4667@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-eldep4667%40gmail.com-EA4335?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=eldep4667-gif&color=2E86AB&style=flat-square&label=Profile+Views)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
