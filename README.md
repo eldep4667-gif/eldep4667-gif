@@ -1,6 +1,6 @@
 ![Hey there, I'm Mohammed. I'm a Data Analyst, transforming raw data into actionable business insights.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-[![khamsat followers](https://khamsat.com/user/eldes0ku) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/eldep4667-gif?logo=GitHub&style=for-the-badge)](https://github.com/eldep4667-gif) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/eldep4667-gif?logo=github&style=for-the-badge)](https://github.com/eldep4667-gif)
+[![Khamsat Profile](https://img.shields.io/badge/Khamsat-FF4F00?style=for-the-badge&logo=khamsat&logoColor=white)](https://khamsat.com/user/eldes0ku) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/eldep4667-gif?logo=GitHub&style=for-the-badge)](https://github.com/eldep4667-gif) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/eldep4667-gif?logo=github&style=for-the-badge)](https://github.com/eldep4667-gif)
 
 # 👋 &nbsp;Hi there, I'm Mohammed Desouk
 
