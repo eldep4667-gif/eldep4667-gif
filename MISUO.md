@@ -52,7 +52,10 @@ This dashboard provides a comprehensive view of performance, enabling stakeholde
 
 ## 📸 Dashboard Preview
 
-![Uploading image.png…]()
+
+![1770484681061](https://github.com/user-attachments/assets/b36760da-3cb6-4ee6-ad82-96cb493e553f)
+![1770484681240](https://github.com/user-attachments/assets/29ecea73-1b60-48e8-a825-5b2a1cacd1c0)
+
 
 
 ---
