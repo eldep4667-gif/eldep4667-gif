@@ -25,7 +25,7 @@
 <tr>
 <td align="center" style="padding:18px 28px;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=📊+Business+Intelligence+%7C+Data+Analytics;📈+Power+BI+%7C+SQL+%7C+Python+%7C+Excel;🎯+Transforming+Raw+Data+into+Strategic+Value;💡+5%2B+Years+%7C+Analyst+%7C+Dashboard+Architect" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=660&height=40&lines=%F0%9F%93%8A+Business+Intelligence+%7C+Data+Analytics;%F0%9F%93%88+Power+BI+%7C+SQL+%7C+Python+%7C+Excel;%F0%9F%8E%AF+Transforming+Raw+Data+into+Strategic+Value;%F0%9F%92%A1+5%2B+Years+%7C+Analyst+%7C+Dashboard+Architect;%F0%9F%9A%80+Open+to+Freelance+%26+Full-Time+Roles" alt="Typing SVG" /></a>
 
 </td>
 </tr>
