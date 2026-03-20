@@ -1,146 +1,443 @@
+<!-- ============================================================ -->
+<!--           MOHAMMED DESOUKY — DASHBOARD PROFILE README        -->
+<!-- ============================================================ -->
+
+<!-- ───────────────────── HERO HEADER ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Mohammed%20Desouky&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Strategic%20Insights&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohammed%20Desouky&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descSize=17&descColor=e8f4fd&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480px" alt="Data Analysis GIF"/>
+</div>
+
+<!-- ─────────────────── LIVE TYPING SUBTITLE ─────────────────── -->
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=700&lines=Senior+Data+Analyst+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python+%7C+Excel+%7C+Tableau;Transforming+Raw+Data+into+Strategic+Decisions;+Building+Dashboards+that+Drive+Business+Growth" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-desouky-a73289282/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eldep4667@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@aldepds)
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mohmad_Eldep)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eldep4667-gif)
+<!-- ─────────────────── SOCIAL BADGES ────────────────────────── -->
+<div align="center">
 
-📍 New Cairo, Egypt &nbsp;|&nbsp; 📞 01229262463 &nbsp;|&nbsp; ✉️ eldep4667@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Desouky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-desouky-a73289282/)
+[![Gmail](https://img.shields.io/badge/Gmail-eldep4667@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldep4667@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@aldepds-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aldepds)
+[![Twitter](https://img.shields.io/badge/Twitter-@mohmad__Eldep-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohmad_Eldep)
+
+📍 **New Cairo, Egypt**
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    KPI DASHBOARD ROW                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-I'm a **Data Analytics expert** with a deep mastery of the full data lifecycle — specialising in transforming complex, multi-source datasets into **high-impact business strategies**.
+<div align="center">
 
-Proficient in advanced **R programming** for statistical modeling and **Excel** for high-end automation and financial analysis. Expert in building sophisticated **SQL architectures**, interactive **Power BI** ecosystems, **Tableau**, and **Python**-driven automation.
+### 📊 Analytics Dashboard — At a Glance
 
-Proven track record of optimising operational efficiency and delivering **data-driven narratives** that empower executive decision-making.
+</div>
 
-> *"I don't just analyse data — I translate it into decisions that drive business growth."*
+<table align="center" width="96%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="25%" style="padding:14px;">
+      <a href="#projects">
+        <img src="https://img.shields.io/badge/-%F0%9F%93%81%20Featured%20Projects-2E86AB?style=for-the-badge&labelColor=EBF5FB" width="100%"/>
+        <br/><strong>4 +</strong>
+        <br/><sub>Data Projects</sub>
+      </a>
+    </td>
+    <td align="center" width="25%" style="padding:14px;">
+      <a href="#skills">
+        <img src="https://img.shields.io/badge/-%F0%9F%93%88%20Dashboards%20Built-27AE60?style=for-the-badge&labelColor=EAFAF1" width="100%"/>
+        <br/><strong>50 +</strong>
+        <br/><sub>BI Dashboards</sub>
+      </a>
+    </td>
+    <td align="center" width="25%" style="padding:14px;">
+      <a href="#experience">
+        <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Rows%20Analyzed-E67E22?style=for-the-badge&labelColor=FEF9E7" width="100%"/>
+        <br/><strong>1M +</strong>
+        <br/><sub>Rows Processed</sub>
+      </a>
+    </td>
+    <td align="center" width="25%" style="padding:14px;">
+      <a href="#skills">
+        <img src="https://img.shields.io/badge/-%F0%9F%A7%B0%20Tools%20Mastered-8E44AD?style=for-the-badge&labelColor=F5EEF8" width="100%"/>
+        <br/><strong>8 +</strong>
+        <br/><sub>Core Tools</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧑‍💼 About Me
+
+> *I don't just work with data — I build systems that make data speak the language of business.*
+
+I am a **Senior Data Analyst** based in New Cairo, Egypt, with deep expertise across the **full analytics lifecycle** — from raw data extraction and cleaning to executive-ready dashboards and strategic recommendations.
+
+I specialize in translating ambiguous business questions into **precise, evidence-backed decisions** using Power BI, SQL, Python, Excel, and R. My work has spanned global firms including **KPMG**, **Tata Group**, and **Accenture**.
+
+What sets me apart:
+- 🎯 I build dashboards that **non-technical executives** actually use and trust
+- 🔍 I ask the *right* questions before writing a single query
+- 📖 I turn reports into **stories** — not just tables of numbers
+- 🤖 I integrate **AI tools** to accelerate data cleaning, SQL generation & insight discovery
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   SKILL CARDS SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a name="skills"></a>
+## 🧰 Skills Dashboard
+
+<table width="100%" cellspacing="10">
+  <tr>
+    <!-- EXCEL CARD -->
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Advanced%20Formulas-✓-217346?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Power%20Query-✓-217346?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Pivot%20Tables-✓-217346?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Power%20Pivot-✓-217346?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/VBA%20Automation-✓-217346?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Proficiency-Expert-217346?style=flat-square&logo=microsoftexcel"/>
+    </td>
+    <!-- SQL CARD -->
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Joins%20%26%20Subqueries-✓-336791?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Window%20Functions-✓-336791?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/CTEs-✓-336791?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Query%20Optimisation-✓-336791?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Data%20Extraction-✓-336791?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Proficiency-Advanced-336791?style=flat-square&logo=postgresql"/>
+    </td>
+    <!-- POWER BI CARD -->
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/DAX%20Formulas-✓-E6B800?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Data%20Modeling-✓-E6B800?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/KPI%20Dashboards-✓-E6B800?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Custom%20Visuals-✓-E6B800?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Report%20Publishing-✓-E6B800?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Proficiency-Expert-E6B800?style=flat-square&logo=powerbi&logoColor=black"/>
+    </td>
+    <!-- PYTHON CARD -->
+    <td width="25%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pandas%20%26%20NumPy-✓-3776AB?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Matplotlib%20%2F%20Seaborn-✓-3776AB?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Data%20Cleaning-✓-3776AB?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/EDA%20Analysis-✓-3776AB?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Automation-✓-3776AB?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Proficiency-Proficient-3776AB?style=flat-square&logo=python"/>
+    </td>
+  </tr>
+</table>
+
+### Additional Tools
+
+<div align="center">
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics%20%26%20Probability-6C3483?style=flat-square)
+![AI Analytics](https://img.shields.io/badge/AI%20in%20Analytics-00B4D8?style=flat-square)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    KPI METRICS ROW                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📈 Performance KPIs
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h2>📊</h2>
+      <h3>50+</h3>
+      <strong>Dashboards Built</strong>
+      <br/><sub>Power BI · Tableau · Excel</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Active-27AE60?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <h2>🗄️</h2>
+      <h3>1M+</h3>
+      <strong>Rows Analyzed</strong>
+      <br/><sub>SQL · Python · Excel</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Accuracy-95%25-2E86AB?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <h2>🎯</h2>
+      <h3>3</h3>
+      <strong>Global Firms</strong>
+      <br/><sub>KPMG · Tata · Accenture</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Impact-High-E67E22?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h2>🧹</h2>
+      <h3>95%</h3>
+      <strong>Report Accuracy</strong>
+      <br/><sub>Validated & QA-tested</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Quality-Verified-8E44AD?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <h2>⚡</h2>
+      <h3>70%</h3>
+      <strong>Reporting Time Saved</strong>
+      <br/><sub>via Automation & BI</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Efficiency-Optimized-27AE60?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <h2>📚</h2>
+      <h3>8+</h3>
+      <strong>Tools Mastered</strong>
+      <br/><sub>End-to-end analytics stack</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Growth-Continuous-2E86AB?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a name="projects"></a>
+## 📂 Featured Projects
+
+<table width="100%">
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+
+### 🔹 Customer Segmentation Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Context:** KPMG Virtual Analytics Experience
+
+Applied **RFM analysis** (Recency · Frequency · Monetary) across large customer datasets. Built an executive Power BI dashboard to visualise high-value segments, enabling targeted marketing strategies.
+
+> 📌 **Impact:** Identified top 20% customers driving 80% of revenue. Informed retention strategy for high-churn-risk segment.
+
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+
+### 🔹 Revenue & Geographic Analysis
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Context:** Tata Group — Empowering Business with Effective Insights
+
+Built a multi-region dashboard revealing revenue distribution using **heatmaps**. Introduced what-if scenario planning, enabling finance teams to model future outcomes confidently.
+
+> 📌 **Impact:** Reduced executive reporting prep time by 70%. Enabled real-time financial scenario modeling.
+
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" valign="top" style="padding:8px;">
+
+### 🔹 Content Performance Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Context:** Accenture — Content Strategy Simulation
+
+Analyzed **1M+ content category records** to surface the top 5 performing content types. Delivered a storytelling presentation that directly informed editorial strategy based on pattern analysis.
+
+> 📌 **Impact:** Identified factors driving +40% user engagement. Strategic presentation adopted by leadership team.
+
+    </td>
+    <td width="50%" valign="top" style="padding:8px;">
+
+### 🔹 KPI Tracking & Financial Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Context:** Operational Analytics & BI Reporting
+
+Designed a company-wide KPI framework with 30+ business metrics. Replaced fragmented spreadsheet reporting with a single **live Power BI source of truth** consumed by multiple departments.
+
+> 📌 **Impact:** Eliminated 12+ manual reports. Saved 15+ hours/week in cross-departmental reporting effort.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    WORK EXPERIENCE                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a name="experience"></a>
+## 💼 Experience Highlights
+
+| 🏢 Organisation | 🎯 Role | 🔑 Key Contribution |
+|:---|:---|:---|
+| **KPMG** | Data Analytics Virtual Analyst | RFM segmentation · Data quality assurance · Marketing insights dashboard |
+| **Tata Group** | BI Consultant (Virtual) | Revenue heatmaps · What-if scenario planning · KPI development |
+| **Accenture** | Data Analyst (Virtual) | 1M+ row content analysis · SQL + Python integration · Trend forecasting |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CORE COMPETENCIES                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧠 Core Competencies
+
+<div align="center">
+
+| Competency | Proficiency |
+|:---|:---|
+| 🧹 Data Cleaning & Preprocessing | `████████████████████` Expert |
+| 📊 Dashboard Development (Power BI) | `████████████████████` Expert |
+| 🔍 SQL Analysis & Optimisation | `███████████████████░` Advanced |
+| 📑 Excel Advanced & Power Query | `████████████████████` Expert |
+| 📖 Data Storytelling & Reporting | `███████████████████░` Advanced |
+| 🐍 Python (Pandas · NumPy · Viz) | `█████████████████░░░` Proficient |
+| 📐 Statistical Analysis & A/B Testing | `████████████████░░░░` Proficient |
+| 💡 Business & Stakeholder Analysis | `███████████████████░` Advanced |
+| 🤖 AI-Assisted Analytics | `████████████████░░░░` Proficient |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    EDUCATION                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education & Certifications
 
-**Data Analysis Diploma** — Cairo  
-A comprehensive diploma covering essential data analysis tools and techniques. Focused on developing a strong analytical mindset for extracting meaningful business insights. Built the ability to transform raw data into actionable insights for decision-making.
+<table width="100%">
+  <tr>
+    <td width="50%">
 
-**Core tools covered:** Excel · SQL · Power BI · Python · Applied Statistics · R
+**📜 Data Analysis Diploma** — Cairo
+- Full data lifecycle: Extract → Clean → Model → Visualise → Communicate
+- Tools: Excel · SQL · Power BI · Python · R · Applied Statistics
+- Built real-world projects with actionable business insights
 
----
+    </td>
+    <td width="50%">
 
-## 💼 Virtual Work Experience
+**🏆 Virtual Experience Certificates**
+- ✅ KPMG — Data Analytics Consulting
+- ✅ Tata Group — Data Visualisation
+- ✅ Accenture — Data Analytics & Visualisation
 
-### 📌 Data Analytics Virtual Experience — KPMG
-- Applied **RFM analysis** (Recency, Frequency, Monetary) to segment customers and identify the most profitable segments
-- Designed a **marketing insights dashboard** highlighting potential growth opportunities in specific segments
-- Ensured high data quality across three large datasets through rigorous **data quality assessment**
+    </td>
+  </tr>
+</table>
 
----
-
-### 📌 Data Visualization — Tata Group *(Empowering Business with Effective Insights)*
-- Served as a **"data consultant"** to senior management, illustrating the relationship between revenue and geographic regions using heatmaps
-- Designed **"what-if" scenarios** to forecast future financial performance based on market variables
-- Developed precise **KPIs** that enabled management to make expansion decisions based on reliable data, not estimates
-
----
-
-### 📌 Content Strategy & Data Analysis Simulation — Accenture
-- Analysed data from over **1,000,000 categories** of digital content to identify the factors influencing user engagement
-- Fused **SQL and Python** to link complex spreadsheets and extract the top 5 performing content categories
-- Delivered a compelling **data storytelling presentation** summarising future content trends based on historical pattern analysis
+**Languages:** 🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇬🇧 English (Fluent)
 
 ---
 
-## 📊 Key Projects
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### 🔹 Customer Segmentation Dashboard (KPMG)
-**Tools:** Excel · Power BI · SQL  
-Applied RFM segmentation on large customer datasets. Built an interactive Power BI dashboard to visualise high-value segments, enabling targeted marketing strategies and improving customer retention focus.
-
----
-
-### 🔹 Revenue & Geographic Performance Analysis (Tata)
-**Tools:** Power BI · DAX · Excel  
-Built a multi-region executive dashboard revealing revenue distribution across geographies using heatmaps. Introduced what-if scenario planning, enabling finance teams to model future outcomes with confidence.
-
----
-
-### 🔹 Content Performance Analysis (Accenture)
-**Tools:** Python · SQL · Excel  
-Processed 1M+ content records to surface the top 5 performing content categories. Delivered a storytelling presentation that directly informed editorial strategy based on historical trend analysis.
-
----
-
-### 🔹 KPI Tracking & Financial Dashboard
-**Tools:** Power BI · DAX · Excel  
-Designed and deployed interactive dashboards for operational KPI monitoring. Replaced fragmented spreadsheet reporting with a unified, real-time Business Intelligence view for leadership teams.
-
----
-
-## 🧰 Technical Skills
-
-| Domain | Tools & Technologies |
-|:---|:---|
-| **Spreadsheets** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) Advanced Formulas · Power Query · Pivot Tables · Power Pivot · VBA Automation |
-| **SQL** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) Joins · Window Functions · CTEs · Subqueries · Query Optimisation |
-| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) DAX · Data Modeling · KPI Dashboards · Custom Visuals |
-| **Visualisation** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) Interactive Analytics · Dashboard Design · Data Storytelling |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Pandas · NumPy · Matplotlib · Seaborn &nbsp;&nbsp; ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) Statistical Modeling · Data Viz |
-| **Analytics** | Statistics · Probability · Hypothesis Testing · Business Fundamentals · KPI Frameworks |
-| **AI in Analytics** | Leveraging AI tools to automate data cleaning, SQL generation & insight discovery |
-
----
-
-## 📈 Core Competencies
-
-```
-Data Cleaning & Preprocessing       ████████████████████  Expert
-Power BI Dashboards & DAX           ████████████████████  Expert
-SQL Analysis & Optimisation         ███████████████████░  Advanced
-Excel (Advanced + Power Query)      ████████████████████  Expert
-Data Storytelling & Reporting       ███████████████████░  Advanced
-Python (Pandas, NumPy, Viz)         █████████████████░░░  Proficient
-R Programming & Statistics          ████████████████░░░░  Proficient
-Business & Stakeholder Analysis     ███████████████████░  Advanced
-```
-
----
-
-## 🌐 Languages
-
-- 🇸🇦 **Arabic** — Native
-- 🇬🇧 **English** — Fluent
-
----
-
-## 📉 GitHub Activity
+## 📉 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldep4667-gif&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0A66C2&icon_color=0A66C2)
+<img src="https://github-readme-stats.vercel.app/api?username=eldep4667-gif&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E86AB&icon_color=2E86AB&text_color=2C3E50&bg_color=FAFBFC" height="175px"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eldep4667-gif&theme=default&hide_border=true&ring=2E86AB&fire=E67E22&currStreakLabel=2E86AB" height="175px"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eldep4667-gif&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldep4667-gif&layout=compact&theme=default&hide_border=true&title_color=2E86AB&text_color=2C3E50&bg_color=FAFBFC" height="140px"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FOOTER / CTA                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-*Open to Data Analyst roles, BI consulting, and freelance analytics projects.*  
-📩 **Let's connect:** [eldep4667@gmail.com](mailto:eldep4667@gmail.com)
+### 💬 Let's Build Something Data-Driven Together
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:4facfe,100:00f2fe&height=100&section=footer" width="100%"/>
+*Open to Data Analyst roles · BI consulting · Freelance analytics projects*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-desouky-a73289282/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldep4667@gmail.com)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aldepds)
+[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohmad_Eldep)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=eldep4667-gif&color=2E86AB&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
