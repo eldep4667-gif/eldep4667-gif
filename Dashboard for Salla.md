@@ -4,7 +4,8 @@
 ---
 
 ## 🖼️ Project Visual Showcase
-> **Note:* 
+> **Note:* [M HG.pdf](https://github.com/user-attachments/files/26152243/M.HG.pdf)
+
 ### 🎥 Project Walkthrough (Video Demo)
 https://github.com/user-attachments/assets/7ef7b66e-e8d5-482e-80e6-19b247124763
 
