@@ -5,7 +5,7 @@
 <!-- ───────────────────── HERO HEADER ───────────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohammed%20Desouky&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descSize=17&descColor=e8f4fd&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://cdn.dribbble.com/userupload/16861254/file/original-184e65d85833c385d6b143ea6d99255f.mp4" width="100%"/>
 
 </div>
 
