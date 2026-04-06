@@ -1,3 +1,18 @@
+st.set_page_config(layout="wide", initial_sidebar_state="collapsed", page_title="NEXUS Dashboard")
+
+# السطر اللي بيفرض الثيم الداكن وألوان النيون
+st.markdown("""
+    <style>
+        [data-testid="stAppViewContainer"] {
+            background-color: #0e1117;
+            color: #fafafa;
+        }
+        [data-testid="stHeader"] {
+            background: rgba(0,0,0,0);
+        }
+    </style>
+    """, unsafe_allow_html=True)
+
 from __future__ import annotations
 
 from datetime import datetime, timezone
