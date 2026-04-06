@@ -1,17 +1,3 @@
-st.set_page_config(layout="wide", initial_sidebar_state="collapsed", page_title="NEXUS Dashboard")
-
-# السطر اللي بيفرض الثيم الداكن وألوان النيون
-st.markdown("""
-    <style>
-        [data-testid="stAppViewContainer"] {
-            background-color: #0e1117;
-            color: #fafafa;
-        }
-        [data-testid="stHeader"] {
-            background: rgba(0,0,0,0);
-        }
-    </style>
-    """, unsafe_allow_html=True)
 
 from __future__ import annotations
 
@@ -29,6 +15,14 @@ from report_generator import *
 from technical_analysis import *
 from trading_schools import *
 from styles import *
+[theme]
+primaryColor = "#00ffcc"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1f2937"
+textColor = "#fafafa"
+font = "sans serif"
+
+
 st.set_page_config(
     page_title="NEXUS Trading Intelligence",
     page_icon="N",
