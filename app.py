@@ -7,7 +7,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 import yfinance as yf
 
-from modules.ai_signals import AISignalEngine
+from ai_signals import AISignalEngine
 from modules.news_fetcher import NewsFetcher
 from modules.pattern_detection import PatternDetector
 from modules.styles import inject_custom_css
