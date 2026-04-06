@@ -7,12 +7,13 @@ import streamlit as st
 import streamlit.components.v1 as components
 import yfinance as yf
 
-import ai_signals as ai
-import news_fetcher as news
-import pattern_detection as pattern
-import report_generator as report
-import technical_analysis as tech
-import trading_schools as school
+from ai_signals import *
+from news_fetcher import *
+from pattern_detection import *
+from report_generator import *
+from technical_analysis import *
+from trading_schools import *
+from styles import *
 st.set_page_config(
     page_title="NEXUS Trading Intelligence",
     page_icon="N",
