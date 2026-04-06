@@ -8,11 +8,11 @@ import streamlit.components.v1 as components
 import yfinance as yf
 
 from ai_signals import AISignalEngine
-from modules.news_fetcher import NewsFetcher
-from modules.pattern_detection import PatternDetector
-from modules.styles import inject_custom_css
-from modules.technical_analysis import TechnicalAnalyzer
-from modules.trading_schools import TradingSchoolsAnalyzer
+from news_fetcher import NewsFetcher
+from pattern_detection
+from report_generato
+from technical_analysis import TechnicalAnalyzer
+from trading_schools import TradingSchoolsAnalyzer
 
 st.set_page_config(
     page_title="NEXUS Trading Intelligence",
