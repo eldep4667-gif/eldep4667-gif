@@ -15,13 +15,6 @@ from report_generator import *
 from technical_analysis import *
 from trading_schools import *
 from styles import *
-[theme]
-primaryColor = "#00ffcc"
-backgroundColor = "#0e1117"
-secondaryBackgroundColor = "#1f2937"
-textColor = "#fafafa"
-font = "sans serif"
-
 
 st.set_page_config(
     page_title="NEXUS Trading Intelligence",
